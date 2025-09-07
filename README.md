@@ -1,0 +1,3 @@
+# Notas/apuntes/tips de la certificación PT1
+
+Sin spoiler del examen, solo teoría, herramientas útiles, formatos, qué debes saber... 
